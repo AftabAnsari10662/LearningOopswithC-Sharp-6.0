@@ -34,7 +34,7 @@ namespace MethodHidingVsMethodOverriding
 
             IEnumerable<Friend> friends = new Friend[]
                                          {
-                                            
+
                                              new Friend() {
                                              Id = 1,
                                              FirstName ="Aftab",
@@ -74,6 +74,11 @@ namespace MethodHidingVsMethodOverriding
                 Console.WriteLine(enumerators.Current.FirstName);
             }
 
+
+            foreach (var friend in friends)
+            {
+                Console.WriteLine($"First Name:{friend.FirstName}");
+            }
             Console.ReadLine();
         }
     }
