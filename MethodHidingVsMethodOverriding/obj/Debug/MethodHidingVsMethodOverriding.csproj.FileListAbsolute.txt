@@ -3,3 +3,4 @@ C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\MethodHidingVsMethodOverr
 C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\MethodHidingVsMethodOverriding\bin\Debug\MethodHidingVsMethodOverriding.pdb
 C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\MethodHidingVsMethodOverriding\obj\Debug\MethodHidingVsMethodOverriding.exe
 C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\MethodHidingVsMethodOverriding\obj\Debug\MethodHidingVsMethodOverriding.pdb
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\MethodHidingVsMethodOverriding\obj\Debug\MethodHidingVsMethodOverriding.csprojResolveAssemblyReference.cache

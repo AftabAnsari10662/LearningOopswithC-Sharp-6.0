@@ -15,7 +15,7 @@ namespace MethodHidingVsMethodOverriding
         }
     }
 
-    public class PermanentEmployee:Employee
+    public class PermanentEmployee : Employee
     {
 
         public new void GetFullName()
@@ -28,9 +28,53 @@ namespace MethodHidingVsMethodOverriding
         static void Main(string[] args)
         {
 
-            Employee e = new PermanentEmployee();
+            //Employee e = new PermanentEmployee();
 
-            e.GetFullName();
+            // e.GetFullName();
+
+            IEnumerable<Friend> friends = new Friend[]
+                                         {
+                                            
+                                             new Friend() {
+                                             Id = 1,
+                                             FirstName ="Aftab",
+                                             LastName = "Ansari",
+                                             EmailId = "aftabansari10662@gmail.com",
+                                             twitterUrl ="https://twitter.com/AftabAnsari1066"
+                                           },
+                                             new Friend() {
+                                             Id = 2,
+                                             FirstName ="Anshul",
+                                             LastName = "Rana",
+                                             EmailId = "anshul.rana@gmail.com",
+                                             twitterUrl =""
+                                           },
+                                             new Friend() {
+                                             Id = 3,
+                                             FirstName ="Chaithra",
+                                             LastName = "Mandanna",
+                                             EmailId = "chai.m@gmail.com",
+                                             twitterUrl =""
+                                           },
+                                             new Friend() {
+                                             Id = 4,
+                                             FirstName ="Rohit",
+                                             LastName = "Kumar",
+                                             EmailId = "rohit.kumar@gmail.com",
+                                             twitterUrl =""
+                                           }
+                                         };
+
+
+            IEnumerator<Friend> enumerators = friends.GetEnumerator();
+
+            while (enumerators.MoveNext())
+            {
+
+                Console.WriteLine(enumerators.Current.FirstName);
+            }
+
+            Console.ReadLine();
         }
     }
 }
