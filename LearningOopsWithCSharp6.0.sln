@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{CDB48AC6-1267-4057-BBC5-BF66B799B00E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonDesignPattern", "SingletonDesignPattern\SingletonDesignPattern.csproj", "{F894E1AB-47D8-4FA2-9CE5-5704C6E7F5C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CDB48AC6-1267-4057-BBC5-BF66B799B00E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDB48AC6-1267-4057-BBC5-BF66B799B00E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDB48AC6-1267-4057-BBC5-BF66B799B00E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F894E1AB-47D8-4FA2-9CE5-5704C6E7F5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F894E1AB-47D8-4FA2-9CE5-5704C6E7F5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F894E1AB-47D8-4FA2-9CE5-5704C6E7F5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F894E1AB-47D8-4FA2-9CE5-5704C6E7F5C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

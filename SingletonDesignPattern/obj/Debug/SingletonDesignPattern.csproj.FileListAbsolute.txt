@@ -1,0 +1,6 @@
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojResolveAssemblyReference.cache
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+C:\dev\Git-Contribution\Oops\LearningOopsWithCSharp6.0\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
