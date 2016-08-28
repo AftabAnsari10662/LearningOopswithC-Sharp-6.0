@@ -61,9 +61,10 @@ namespace SingletonDesignPattern
             //MINIMUM = 20;
 
 
+            //Static Constructor Demo
 
-
-
+            StaticConstructorDemo.GetName("Aftab Ansari");
+            StaticConstructorDemo.GetName("Heena Firdous");
 
             Console.ReadLine();
         }
