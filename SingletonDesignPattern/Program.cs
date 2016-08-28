@@ -5,11 +5,27 @@ namespace SingletonDesignPattern
 
     public class Foo
     {
+        private readonly int MAX;
+
         private Foo()
         {
-
+            //A Readonly field can be initialzed only in constructor
+            MAX = 200;
         }
 
+        public int MAXIMUM
+        {
+            get
+            {
+
+                return MAX;
+            }
+
+            //set
+            //{
+            //    MAX = value;
+            //}
+        }
         public int X { get; set; }
         private static Foo FooInstance { get; set; }
 
@@ -34,6 +50,21 @@ namespace SingletonDesignPattern
 
             Console.WriteLine(foo1.X);
             Console.WriteLine(foo2.X);
+
+
+            //Constant
+
+            const int MAXIMUM = 100;
+            const int MINIMUM = 10;
+            //Not allowed
+            //MAXIMUM = 200;
+            //MINIMUM = 20;
+
+
+
+
+
+
             Console.ReadLine();
         }
     }
