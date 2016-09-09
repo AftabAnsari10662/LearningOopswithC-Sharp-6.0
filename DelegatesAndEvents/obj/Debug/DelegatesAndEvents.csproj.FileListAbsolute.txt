@@ -1,0 +1,6 @@
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojResolveAssemblyReference.cache
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
