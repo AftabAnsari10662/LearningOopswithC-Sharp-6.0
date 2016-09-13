@@ -1,0 +1,8 @@
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\bin\Debug\Application2.exe.config
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\bin\Debug\Application2.exe
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\bin\Debug\Application2.pdb
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\bin\Debug\DLLHell.dll
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\bin\Debug\DLLHell.pdb
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\obj\Debug\Application2.csprojResolveAssemblyReference.cache
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\obj\Debug\Application2.exe
+C:\dev\Git\Oops\LearningOopsWithCSharp6.0\Application2\obj\Debug\Application2.pdb
